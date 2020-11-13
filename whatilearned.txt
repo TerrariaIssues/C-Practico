@@ -1,0 +1,7 @@
+/*
+*April 28th: Compound statements, if statements, &&, &&, and == operators, using curly brackets in if
+*April 29th: Gonna need a refresher on "?" operator, and ":"
+*May 5th: making a simple program utilizing switch, i fucking suck
+*May 14th: need to do this more,
+*May 21st: The amount of anxiety I feel to do this is overpowering,
+    
